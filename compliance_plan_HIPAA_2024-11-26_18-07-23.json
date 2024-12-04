@@ -1,0 +1,15 @@
+{
+    "timestamp": "2024-11-26_18-07-23",
+    "regulation": "HIPAA",
+    "compliance_plan": {
+        "privacy_rule": [
+            "Ensure protected health information (PHI) is safeguarded.",
+            "Provide patients with rights over their PHI.",
+            "Limit disclosures of PHI to the minimum necessary."
+        ],
+        "breach_notification_rule": [
+            "Notify affected individuals within 60 days of discovering a breach.",
+            "Report breaches affecting more than 500 individuals to the Department of Health and Human Services."
+        ]
+    }
+}

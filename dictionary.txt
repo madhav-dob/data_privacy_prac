@@ -1,0 +1,10 @@
+apple
+banana
+cherry
+date
+elephant
+fig
+grape
+honeydew
+ice
+jackfruit

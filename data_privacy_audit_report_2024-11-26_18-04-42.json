@@ -1,0 +1,76 @@
+{
+    "timestamp": "2024-11-26_18-04-42",
+    "audit_results": {
+        "data_collection": [
+            {
+                "question": "Are users informed about data collection?",
+                "response": "no"
+            },
+            {
+                "question": "Is data collection limited to what's necessary?",
+                "response": "yes"
+            },
+            {
+                "question": "Are consent mechanisms in place?",
+                "response": "yes"
+            }
+        ],
+        "data_storage": [
+            {
+                "question": "Is data encrypted at rest?",
+                "response": "no"
+            },
+            {
+                "question": "Is sensitive data stored securely?",
+                "response": "yes"
+            },
+            {
+                "question": "Are backup policies in place?",
+                "response": "no"
+            }
+        ],
+        "data_access": [
+            {
+                "question": "Is access to data restricted based on roles?",
+                "response": "yes"
+            },
+            {
+                "question": "Are access logs maintained and monitored?",
+                "response": "yes"
+            },
+            {
+                "question": "Are strong authentication mechanisms used?",
+                "response": "no"
+            }
+        ],
+        "compliance": [
+            {
+                "question": "Is the organization GDPR compliant?",
+                "response": "yes"
+            },
+            {
+                "question": "Are data retention policies clearly defined?",
+                "response": "yes"
+            },
+            {
+                "question": "Is there a process for handling data subject requests?",
+                "response": "no"
+            }
+        ]
+    },
+    "vulnerabilities": {
+        "data_collection": [
+            "Are users informed about data collection?"
+        ],
+        "data_storage": [
+            "Is data encrypted at rest?",
+            "Are backup policies in place?"
+        ],
+        "data_access": [
+            "Are strong authentication mechanisms used?"
+        ],
+        "compliance": [
+            "Is there a process for handling data subject requests?"
+        ]
+    }
+}
